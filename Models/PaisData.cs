@@ -10,7 +10,7 @@ namespace PaisesInfoAPI.Models
         public string indicativoTelefonia { get; set; } = string.Empty;
         public string zonahoraria { get; set; } = string.Empty;
         public string codigoPostal { get; set; } = string.Empty;
-        public string idioma { get; set; } = string.Empty:
+        public string idioma { get; set; } = string.Empty;
 
     }
 }
