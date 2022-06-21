@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ZAMIR\\Desarrollos\\PaisesInfoAPI\\PaisesInfoAPI.csproj": {}
+    "C:\\zamir\\git\\paisesinfoapi\\PaisesInfoAPI.csproj": {}
   },
   "projects": {
-    "D:\\ZAMIR\\Desarrollos\\PaisesInfoAPI\\PaisesInfoAPI.csproj": {
+    "C:\\zamir\\git\\paisesinfoapi\\PaisesInfoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ZAMIR\\Desarrollos\\PaisesInfoAPI\\PaisesInfoAPI.csproj",
+        "projectUniqueName": "C:\\zamir\\git\\paisesinfoapi\\PaisesInfoAPI.csproj",
         "projectName": "PaisesInfoAPI",
-        "projectPath": "D:\\ZAMIR\\Desarrollos\\PaisesInfoAPI\\PaisesInfoAPI.csproj",
-        "packagesPath": "C:\\Users\\Monster\\.nuget\\packages\\",
-        "outputPath": "D:\\ZAMIR\\Desarrollos\\PaisesInfoAPI\\obj\\",
+        "projectPath": "C:\\zamir\\git\\paisesinfoapi\\PaisesInfoAPI.csproj",
+        "packagesPath": "C:\\Users\\zamirbb\\.nuget\\packages\\",
+        "outputPath": "C:\\zamir\\git\\paisesinfoapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Monster\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\zamirbb\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -54,6 +54,10 @@
               "target": "Package",
               "version": "[6.0.1, )"
             },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -77,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
