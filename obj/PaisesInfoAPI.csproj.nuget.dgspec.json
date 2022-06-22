@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\zamir\\git\\paisesinfoapi\\PaisesInfoAPI.csproj": {}
+    "C:\\Zamir\\git\\PaisesInfoAPI\\PaisesInfoAPI.csproj": {}
   },
   "projects": {
-    "C:\\zamir\\git\\paisesinfoapi\\PaisesInfoAPI.csproj": {
+    "C:\\Zamir\\git\\PaisesInfoAPI\\PaisesInfoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\zamir\\git\\paisesinfoapi\\PaisesInfoAPI.csproj",
+        "projectUniqueName": "C:\\Zamir\\git\\PaisesInfoAPI\\PaisesInfoAPI.csproj",
         "projectName": "PaisesInfoAPI",
-        "projectPath": "C:\\zamir\\git\\paisesinfoapi\\PaisesInfoAPI.csproj",
+        "projectPath": "C:\\Zamir\\git\\PaisesInfoAPI\\PaisesInfoAPI.csproj",
         "packagesPath": "C:\\Users\\zamirbb\\.nuget\\packages\\",
-        "outputPath": "C:\\zamir\\git\\paisesinfoapi\\obj\\",
+        "outputPath": "C:\\Zamir\\git\\PaisesInfoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zamirbb\\AppData\\Roaming\\NuGet\\NuGet.Config"
