@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r8moCNR8rNuuj5JxeTZDx/YUHG8qdLso6I+L0LKqfQCa8GzWB/cyIy6X/BD8JYCY6waEcmuXSEdxD6bWt5e3QA==",
+  "dgSpecHash": "lZScTMK98Q24WpXHbzcdvzi3iNU2SaRg9E5Tb21obzvjF01w/XCfvOs/ntmiZ0y56x5GPXOhsDcLlrKGKoVBvA==",
   "success": true,
-  "projectFilePath": "C:\\Zamir\\git\\PaisesInfoAPI\\PaisesInfoAPI.csproj",
+  "projectFilePath": "C:\\zamir\\git\\paisesinfoapi\\PaisesInfoAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zamirbb\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\zamirbb\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
